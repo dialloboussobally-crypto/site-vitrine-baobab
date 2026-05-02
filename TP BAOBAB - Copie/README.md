@@ -81,7 +81,7 @@ baobab-gourmand/
 
 ## Équipe
 
-- **[Votre Prénom Nom]** — Étudiant(e) L1, module Développement Web Front-end
+- **[Mame Diarra Bousso Diallo-Seynabou Diane-Khadidiatou Seck]** — Étudiant(e) L1, module Développement Web Front-end
 
 ## Remerciements
 
