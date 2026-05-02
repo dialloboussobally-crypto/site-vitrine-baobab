@@ -81,9 +81,9 @@ baobab-gourmand/
 
 ## Équipe
 
-- **[Mame Diarra Bousso Diallo-Seynabou Diane-Khadidiatou Seck]** — Étudiant(e) L1, module Développement Web Front-end
+- **[Mame Diarra Bousso Diallo-Seynabou Diane-Khadidiatou Seck]** — Étudiant(e) L1, module Développement Web 
 
 ## Remerciements
 
-Projet réalisé dans le cadre du module Développement Web Front-end.
+Projet réalisé dans le cadre du module Développement Web statique.
 Images : [Unsplash](https://unsplash.com) · Icônes : [Bootstrap Icons](https://icons.getbootstrap.com)
